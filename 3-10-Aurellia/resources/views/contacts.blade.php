@@ -8,7 +8,7 @@
         {{csrf_field()}}
         <div class="mb-3">
           <label for="inputname">Nama</label>
-          <input type="text" class="form-control" id="inputname" placeholder="Nama" name="nama"
+          <input type="text" class="form-control" id="inputname" placeholder="Nama" name="nama">
         </div>
         <div class="mb-3">
           <label for="inputemail" class="form-label">Email</label>
